@@ -1,6 +1,10 @@
-# 👨🏻‍💻 Igor Lucas
+<h1>
+    Igor Lucas
+</h1>
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack | Python • Backend • Automação`**
+
+### 🇧🇷 Sobre mim
 
 Me chamo Igor Lucas, tenho 30 anos, concluí o ensino médio e realizei cursos de Python, Lógica de Programação, Desenvolvimento Web, JavaScript, PHP e Infraestrutura Web.
 
@@ -9,6 +13,51 @@ Sou desenvolvedor em início de carreira, com foco em Python, backend e automaç
 Um dos meus principais projetos é o [Sistema de Cobrança Pix](https://github.com/devigorlucas-sys/sistema-cobranca-pix), desenvolvido com Python e PySide6.
 
 Atualmente, estou aprofundando meus conhecimentos e buscando minha primeira oportunidade profissional na área de desenvolvimento.
+
+### 🛠️ O que sei fazer
+
+- Desenvolver aplicações desktop com Python e PySide6;
+- Criar interfaces gráficas organizadas e responsivas;
+- Consumir e integrar aplicações com APIs REST;
+- Gerar cobranças Pix, QR Codes e consultar transações;
+- Criar dashboards financeiros e históricos de operações;
+- Automatizar processos e tarefas repetitivas;
+- Trabalhar com JSON e persistência local de dados;
+- Criar interfaces web com HTML, CSS, JavaScript, Bootstrap e Tailwind CSS;
+- Utilizar PHP, Laravel e MySQL em projetos de desenvolvimento web;
+- Versionar e publicar projetos utilizando Git e GitHub.
+
+---
+
+<details>
+<summary><strong>🇺🇸 English version</strong></summary>
+
+### About me
+
+**`Full Stack Developer | Python • Backend • Automation`**
+
+My name is Igor Lucas, I am 30 years old, I have completed high school and training courses in Python, Programming Logic, Web Development, JavaScript, PHP, and Web Infrastructure.
+
+I am an entry-level developer focused on Python, backend development, and process automation. I have hands-on experience building desktop applications, graphical user interfaces, REST API integrations, and data management solutions.
+
+One of my main projects is the [Pix Billing System](https://github.com/devigorlucas-sys/sistema-cobranca-pix), developed with Python and PySide6.
+
+I am currently improving my technical skills and looking for my first professional opportunity in software development.
+
+### 🛠️ What I can do
+
+- Build desktop applications with Python and PySide6;
+- Create organized and responsive graphical user interfaces;
+- Consume and integrate applications with REST APIs;
+- Generate Pix charges and QR Codes and check transaction statuses;
+- Build financial dashboards and transaction histories;
+- Automate processes and repetitive tasks;
+- Work with JSON and local data persistence;
+- Create web interfaces with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS;
+- Use PHP, Laravel, and MySQL in web development projects;
+- Manage and publish projects using Git and GitHub.
+
+</details>
 
 ---
 

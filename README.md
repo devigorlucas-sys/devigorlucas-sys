@@ -1,154 +1,166 @@
-<h1>
-    Igor Lucas
-</h1>
+<h1 align="center">Igor Lucas</h1>
 
-**`Desenvolvedor Full Stack | Python • Backend • Automação`**
+<p align="center">
+  <strong>Desenvolvedor Full Stack | Python • TypeScript • React • Next.js</strong>
+</p>
 
-### 🇧🇷 Sobre mim
+<p align="center">
+  <a href="https://portfolio-igor-lucas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/devigorlucas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.igorlucas@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
-Me chamo Igor Lucas, tenho 30 anos, concluí o ensino médio e realizei cursos de Python, Lógica de Programação, Desenvolvimento Web, JavaScript, PHP e Infraestrutura Web.
+## 🇧🇷 Sobre mim
 
-Sou desenvolvedor em início de carreira, com foco em Python, backend e automação de processos. Tenho experiência prática com aplicações desktop, interfaces gráficas, APIs REST e organização de dados.
+Sou Igor Lucas, desenvolvedor Full Stack do Brasil, com conhecimento em **Python, JavaScript, TypeScript, React, Next.js, PostgreSQL, Docker e DevOps**. Desenvolvo interfaces responsivas, automações e aplicações web integradas a bancos de dados, sempre com foco em organização, desempenho e facilidade de uso.
 
-Um dos meus principais projetos é o [Sistema de Cobrança Pix](https://github.com/devigorlucas-sys/sistema-cobranca-pix), desenvolvido com Python e PySide6.
+Minha formação reúne front-end, back-end, banco de dados e infraestrutura. Aplico essa base na construção de soluções completas — do planejamento da interface e modelagem dos dados à implementação, versionamento e configuração do ambiente. Busco uma oportunidade para contribuir em produtos reais, colaborar com equipes e evoluir profissionalmente.
 
-Atualmente, estou aprofundando meus conhecimentos e buscando minha primeira oportunidade profissional na área de desenvolvimento.
+## 🛠️ Principais competências
 
-### 🛠️ O que sei fazer
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React e Next.js;
+- **Back-end:** Python, Python Web, integração e consumo de APIs REST;
+- **Desktop e automação:** Python, PySide6, interfaces gráficas e automação de processos;
+- **Banco de dados:** PostgreSQL, modelagem, consultas SQL e persistência de dados;
+- **Infraestrutura:** Docker, Linux, fundamentos de DevOps e infraestrutura web;
+- **Desenvolvimento:** Git, GitHub, boas práticas, lógica de programação e resolução de problemas.
 
-- Desenvolver aplicações desktop com Python e PySide6;
-- Criar interfaces gráficas organizadas e responsivas;
-- Consumir e integrar aplicações com APIs REST;
-- Gerar cobranças Pix, QR Codes e consultar transações;
-- Criar dashboards financeiros e históricos de operações;
-- Automatizar processos e tarefas repetitivas;
-- Trabalhar com JSON e persistência local de dados;
-- Criar interfaces web com HTML, CSS, JavaScript, Bootstrap e Tailwind CSS;
-- Utilizar PHP, Laravel e MySQL em projetos de desenvolvimento web;
-- Versionar e publicar projetos utilizando Git e GitHub.
+## 🚀 Projetos em destaque
+
+### Sistema de Cobrança Pix
+
+Aplicação desenvolvida em **Python e PySide6** para organizar clientes e cobranças via Pix. O sistema permite gerar QR Codes, acompanhar transações, consultar históricos, utilizar filtros e visualizar informações em um dashboard. Também possui integração com WhatsApp, processamento de tarefas em segundo plano e proteção de credenciais com PBKDF2 e SHA-256.
+
+[Ver repositório](https://github.com/devigorlucas-sys/sistema-cobranca-pix)
+
+### Site institucional para nutricionista
+
+Projeto freelance desenvolvido com **Next.js, React, TypeScript e CSS**. O site apresenta os serviços da profissional, facilita o contato por WhatsApp e Instagram e oferece uma experiência responsiva para computadores, tablets e celulares.
+
+### Portfólio pessoal
+
+Portfólio bilíngue desenvolvido com **React, TypeScript e Vite**, com design responsivo, animações inspiradas em terminal e apresentação dos meus projetos, habilidades, cursos e canais profissionais.
+
+[Acessar portfólio](https://portfolio-igor-lucas.vercel.app/)
+
+## 🎓 Cursos concluídos
+
+<details>
+<summary><strong>Fundamentos de programação</strong></summary>
+
+- Curso de Lógica de Programação
+- Curso de Git e GitHub Completo
+- Curso de Linux Completo
+- Curso Boas Práticas de Programação
+- Curso Produtividade para Programadores
+
+</details>
+
+<details>
+<summary><strong>Front-end</strong></summary>
+
+- Curso Front-End Completo 2.0
+- Curso Webmaster Front-End Completo
+- Curso Desenvolvimento Web Completo
+- Curso Desenvolvimento Web 2.0
+- Curso JavaScript Completo
+- Curso TypeScript Express
+- Curso de ReactJS
+- Curso de NextJS Express
+
+</details>
+
+<details>
+<summary><strong>Back-end e banco de dados</strong></summary>
+
+- Curso de Python Completo
+- Curso de Python Web
+- Curso Banco de Dados
+- Curso de PostgreSQL
+
+</details>
+
+<details>
+<summary><strong>Infraestrutura e carreira</strong></summary>
+
+- Curso de Docker Completo
+- Curso DevOps Essential
+- Curso Infraestrutura Completo
+- Curso de Inglês para Programadores
+- Curso de Soft Skills
+
+</details>
+
+## 💻 Linguagens e tecnologias
+
+<p align="left">
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;
+  <img alt="PySide6 e Qt" title="PySide6 e Qt" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+  &nbsp;
+  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  &nbsp;
+  <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;
+  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp;
+  <img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  &nbsp;
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
 
 ---
 
 <details>
 <summary><strong>🇺🇸 English version</strong></summary>
 
-### About me
+## About me
 
-**`Full Stack Developer | Python • Backend • Automation`**
+I am Igor Lucas, a Full Stack Developer from Brazil with knowledge of **Python, JavaScript, TypeScript, React, Next.js, PostgreSQL, Docker, and DevOps**. I build responsive interfaces, automations, and database-integrated web applications, always focusing on organization, performance, and ease of use.
 
-My name is Igor Lucas, I am 30 years old, I have completed high school and training courses in Python, Programming Logic, Web Development, JavaScript, PHP, and Web Infrastructure.
+My training covers front-end, back-end, databases, and infrastructure. I apply this foundation to building complete solutions — from interface planning and data modeling to implementation, version control, and environment configuration. I am looking for an opportunity to contribute to real products, collaborate with teams, and grow professionally.
 
-I am an entry-level developer focused on Python, backend development, and process automation. I have hands-on experience building desktop applications, graphical user interfaces, REST API integrations, and data management solutions.
+## What I can do
 
-One of my main projects is the [Pix Billing System](https://github.com/devigorlucas-sys/sistema-cobranca-pix), developed with Python and PySide6.
-
-I am currently improving my technical skills and looking for my first professional opportunity in software development.
-
-### 🛠️ What I can do
-
-- Build desktop applications with Python and PySide6;
-- Create organized and responsive graphical user interfaces;
-- Consume and integrate applications with REST APIs;
-- Generate Pix charges and QR Codes and check transaction statuses;
-- Build financial dashboards and transaction histories;
-- Automate processes and repetitive tasks;
-- Work with JSON and local data persistence;
-- Create web interfaces with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS;
-- Use PHP, Laravel, and MySQL in web development projects;
-- Manage and publish projects using Git and GitHub.
+- Build responsive interfaces with HTML, CSS, JavaScript, TypeScript, React, and Next.js;
+- Develop applications and automations with Python;
+- Create desktop interfaces with Python and PySide6;
+- Consume and integrate REST APIs;
+- Model and work with PostgreSQL databases;
+- Use Docker, Linux, and DevOps fundamentals;
+- Version and publish projects with Git and GitHub;
+- Apply programming logic, clean code practices, and problem-solving skills.
 
 </details>
 
 ---
 
-### 🤖 Linguagens e tecnologias
+## 📫 Entre em contato
 
-<p align="left">
-    <img
-        alt="Python"
-        title="Python"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-    <img
-        alt="PySide6 e Qt"
-        title="PySide6 e Qt"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
-    />
-    <img
-        alt="HTML5"
-        title="HTML5"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    />
-    <img
-        alt="CSS3"
-        title="CSS3"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-    <img
-        alt="JavaScript"
-        title="JavaScript"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    />
-    <img
-        alt="Bootstrap"
-        title="Bootstrap"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-    />
-    <img
-        alt="Tailwind CSS"
-        title="Tailwind CSS"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    />
-    <img
-        alt="PHP"
-        title="PHP"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-    />
-    <img
-        alt="Laravel"
-        title="Laravel"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-    />
-    <img
-        alt="MySQL"
-        title="MySQL"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-    />
-    <img
-        alt="Git"
-        title="Git"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />
-    <img
-        alt="JSON"
-        title="JSON"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
-    />
-</p>
+- **Portfólio:** [portfolio-igor-lucas.vercel.app](https://portfolio-igor-lucas.vercel.app/)
+- **E-mail:** [dev.igorlucas@gmail.com](mailto:dev.igorlucas@gmail.com)
+- **LinkedIn:** [linkedin.com/in/devigorlucas](https://www.linkedin.com/in/devigorlucas/)
+- **GitHub:** [github.com/devigorlucas-sys](https://github.com/devigorlucas-sys)
+- **Localização:** Brasil — BR
 
----
-
-### 📫 Conecte-se comigo
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/devigorlucas/">
-        <img
-            alt="LinkedIn"
-            title="Acessar meu LinkedIn"
-            width="40px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
+<p align="center">
+  Desenvolvido por <strong>Igor Lucas</strong>
 </p>
